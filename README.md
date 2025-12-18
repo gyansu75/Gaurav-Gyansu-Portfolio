@@ -46,11 +46,12 @@ I enjoy exploring real-world datasets, identifying trends, and telling stories t
 
 ---
 
-### 3. 🏦 Factory Data Insights
-**Tools:** Excel, Tableau 
-- Built financial reports and viualisations on Tableau about the Factory down-time analysis.  
-- Automated calculations with Excel formulas and slicers.  
-- [View Project Folder →](./Financial-Data-Insights)
+### 3. 🏦 Daikibo-Telemetry-Data-Analysis Insights for Deloitte Data Analyst Job Simulation on Forage
+**Tools:** Python, Pandas, Excel, Tableau 
+- Built financial reports and viualisations on Tableau about the Factory down-time analysis.
+- Performed Data Cleaning and Modeling on the Dataset and created a CSV file using MS Excel.   
+- Updated the Salary Equality Index column in 3 different categories using Python for better understanding the Income Inequalites in the Factories.  
+- [View Project Folder →](https://github.com/gyansu75/Daikibo-Telemetry-Data-Analysis)
 
 ---
 
