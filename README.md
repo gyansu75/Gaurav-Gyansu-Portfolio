@@ -30,7 +30,7 @@ I enjoy exploring real-world datasets, identifying trends, and telling stories t
 
 ## 📁 Projects
 
-### 1. Hotel Booking and Cancellations Analysis
+### 1. [Hotel Booking and Cancellations Analysis](https://gyansu75.github.io/Hotel_booking_analysis/)
 **Tools:** Python, Pandas, Seaborne, NumPy, Matplotlib   
 - Analyzed monthly and regional sales data to track KPIs.  
 - Built an interactive Power BI dashboard showing sales trends, revenue, and top products.  
@@ -38,7 +38,7 @@ I enjoy exploring real-world datasets, identifying trends, and telling stories t
 
 ---
 
-### 2. 💬 TELECO Customer Churn Analysis for Scriptguru Digital Solutions Pvt. Ltd
+### 2. 💬 [TELECO Customer Churn Analysis for Scriptguru Digital Solutions Pvt. Ltd](https://gyansu75.github.io/Teleco-Customer-Churn-Dataset-Analysis/)
 **Tools:** Python, Pandas, Matplotlib  
 - Cleaned telecom customer data and identified churn patterns.  
 - Built visualizations to show factors influencing customer retention.  
@@ -46,7 +46,7 @@ I enjoy exploring real-world datasets, identifying trends, and telling stories t
 
 ---
 
-### 3. 🏦 [Daikibo-Telemetry-Data-Analysis Insights for Deloitte Data Analyst Job Simulation on Forage](https://gyansu75.github.io/Teleco-Customer-Churn-Dataset-Analysis/)
+### 3. 🏦 [Daikibo-Telemetry-Data-Analysis Insights for Deloitte Data Analyst Job Simulation on Forage]()
 **Tools:** Python, Pandas, Excel, Tableau 
 - Built financial reports and viualisations on Tableau about the Factory down-time analysis.
 - Performed Data Cleaning and Modeling on the Dataset and created a CSV file using MS Excel.   
