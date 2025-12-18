@@ -5,13 +5,13 @@ This repository showcases my projects, skills, and approaches in **data cleaning
 
 ## 🧠 About Me
 
-Hi! I'm **[Your Name]**, a data enthusiast passionate about transforming raw data into meaningful insights.  
+Hi! I'm **Gaurav Gyansu**, a data enthusiast passionate about transforming raw data into meaningful insights.  
 I enjoy exploring real-world datasets, identifying trends, and telling stories through visuals and data-driven reports.
 
-📍 Location: [Your City, Country]  
-📧 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn URL]  
-🌐 Portfolio Website: [Your Website, if any]
+📍 Location: [Dehradun,Uttarakhand,India,248001]  
+📧 Email: [gyansu75@gmail.com]  
+🔗 [LinkedIn](www.linkedin.com/in/gaurav-gyansu-66b1121b9)  
+🌐 Portfolio Website: []
 
 ---
 
@@ -81,24 +81,8 @@ I’m continuously improving my skills in:
 
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn](Your LinkedIn URL)  
-- 🐦 [Twitter](Your Twitter, optional)  
-- 🌐 [Portfolio Website](Your Website)  
-
---Welcome to my **Data Analytics Portfolio!**  
-This repository showcases my projects, skills, and approaches in **data cleaning, analysis, visualization, and business insights** using tools like **Python, SQL, Excel, Power BI, and Tableau**.
-
----
-
-## 🧠 About Me
-
-Hi! I'm **Gaurav Gyansu**, a data enthusiast passionate about transforming raw data into meaningful insights.  
-I enjoy exploring real-world datasets, identifying trends, and telling stories through visuals and data-driven reports.
-
-📍 Location: [Dehradun,Uttarakhand,India,248001]  
-📧 Email: [gyansu75@gmail.com]  
-🔗 LinkedIn: [Your LinkedIn URL]  
-🌐 Portfolio Website: [Your Website, if any]
+- 💼 [LinkedIn](www.linkedin.com/in/gaurav-gyansu-66b1121b9)   
+- 🌐 [Mail](gyansu75@gmail.com)  
 
 ---
 
