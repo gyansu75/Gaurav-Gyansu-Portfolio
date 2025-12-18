@@ -38,11 +38,11 @@ I enjoy exploring real-world datasets, identifying trends, and telling stories t
 
 ---
 
-### 2. 💬 Customer Churn Analysis for Scriptguru Digital Solutions Pvt. Ltd
+### 2. 💬 TELECO Customer Churn Analysis for Scriptguru Digital Solutions Pvt. Ltd
 **Tools:** Python, Pandas, Matplotlib  
 - Cleaned telecom customer data and identified churn patterns.  
 - Built visualizations to show factors influencing customer retention.  
-- [View Project Folder →](./Customer-Churn-Analysis)
+- [View Project Folder →](https://github.com/gyansu75/Teleco-Customer-Churn-Dataset-Analysis)
 
 ---
 
