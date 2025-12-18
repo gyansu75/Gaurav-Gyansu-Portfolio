@@ -46,7 +46,7 @@ I enjoy exploring real-world datasets, identifying trends, and telling stories t
 
 ---
 
-### 3. 🏦 Daikibo-Telemetry-Data-Analysis Insights for Deloitte Data Analyst Job Simulation on Forage
+### 3. 🏦 [Daikibo-Telemetry-Data-Analysis Insights for Deloitte Data Analyst Job Simulation on Forage](https://gyansu75.github.io/Teleco-Customer-Churn-Dataset-Analysis/)
 **Tools:** Python, Pandas, Excel, Tableau 
 - Built financial reports and viualisations on Tableau about the Factory down-time analysis.
 - Performed Data Cleaning and Modeling on the Dataset and created a CSV file using MS Excel.   
