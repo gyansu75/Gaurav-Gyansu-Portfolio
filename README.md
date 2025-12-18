@@ -34,7 +34,7 @@ I enjoy exploring real-world datasets, identifying trends, and telling stories t
 **Tools:** Python, Pandas, Seaborne, NumPy, Matplotlib   
 - Analyzed monthly and regional sales data to track KPIs.  
 - Built an interactive Power BI dashboard showing sales trends, revenue, and top products.  
-- [View Project Folder →](./Sales-Performance-Dashboard)
+- [View Project Folder →](https://github.com/gyansu75/Hotel_booking_analysis)
 
 ---
 
