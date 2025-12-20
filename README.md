@@ -57,7 +57,7 @@ I enjoy exploring real-world datasets, identifying trends, and telling stories t
 
 ## 📊 Sample Visuals
 
-*(You can add screenshots of your dashboards or graphs here)*  
+
 ![Sample Dashboard](plot_2.png)
 ![Sample Dashboard](plot_3.png)
 ![Sample Dashboard](plot_4.png)
