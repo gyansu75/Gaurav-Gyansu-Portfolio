@@ -15,16 +15,27 @@ I enjoy exploring real-world datasets, identifying trends, and telling stories t
 
 ---
 
+## 🧠 Professional Experience
+
+**DATA SCIENCE INTERN | CODESOFT | APR 2026 - MAY 2026**
+[CLICK TO KNOW MORE ABOUT MY WORK AND PROJECTS I MADE DURING MY INTERNSHIP](https://gyansu75.github.io/CODSOFT/)
+
+**OMNI SPORTS LEADER SALES/CRM | DECATHLON SPORTS INDIA | DEC 2023 - MAY 2024**
+
+
+---
+
 ## 🧰 Tools & Technologies
 
 | Category | Tools / Skills |
 |-----------|----------------|
-| **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn) |
-| **Data Visualization** | Power BI, Tableau, Matplotlib, Excel |
+| **Programming** | Python (Pandas, NumPy), DSA |
+| **Data Visualization** | Power BI, Tableau, Matplotlib, Excel, Seaborn, Pair Plots, Bar Charts, , Confusion Matrix |
 | **Databases** | MySQL, PostgreSQL, SQLite |
 | **Excel Skills** | Pivot Tables, Dashboards, Lookup Functions |
-| **Other** | Statistics, Data Cleaning, Data Modelling, EDA, Reporting |
-
+| **Data Science** | Statistics(Mean, Mode, Median, Standard Deviation), Data Cleaning, Data Modelling, EDA, Data Evaluation and Testing, Reporting |
+| **Artificial Intelligience** | Gen AI ( Claude, Gemini, ChatGPT, Perplexity... )|
+| **Machine Learning** | Scikit-learn, Logistic Regression, Random Forest Algorithm, Accuracy Score, 80% Train and 20% Test Method |
 
 ---
 
