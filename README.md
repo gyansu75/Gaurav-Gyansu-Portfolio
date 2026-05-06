@@ -10,14 +10,14 @@ I enjoy exploring real-world datasets, identifying trends, and telling stories t
 
 📍 Location: [Dehradun,Uttarakhand,India,248001]  
 📧 Email: [gyansu75@gmail.com]  
-🔗 [LinkedIn](www.linkedin.com/in/gaurav-gyansu-66b1121b9)  
-🌐 Portfolio Website: []
+🔗 [LinkedIn](www.linkedin.com/in/gaurav-gyansu)  
 
 ---
 
 ## 🧠 Professional Experience
 
 **DATA SCIENCE INTERN | CODESOFT | APR 2026 - MAY 2026**
+
 [CLICK TO KNOW MORE ABOUT MY WORK AND PROJECTS I MADE DURING MY INTERNSHIP](https://gyansu75.github.io/CODSOFT/)
 
 **OMNI SPORTS LEADER SALES/CRM | DECATHLON SPORTS INDIA | DEC 2023 - MAY 2024**
